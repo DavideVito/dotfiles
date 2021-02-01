@@ -8,3 +8,4 @@ brew bundle --file Brewfile
 
 chmod 777 code.extension.sh
 
+./code.extension.sh
